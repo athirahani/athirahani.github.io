@@ -1,0 +1,45 @@
+body {
+  background: #2e4053;
+  font-family: "Mansalva", cursive;
+  color: #ffffff;
+  margin: 0 auto 0px 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.header {
+  padding: 20px 0px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.text {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+button {
+  /* display: block; */
+  text-align: center;
+  margin: 0px 10px 0 0;
+  padding: 12px 20px;
+  font-family: "Mansalva", cursive;
+  font-size: 24px;
+  border-radius: 5px;
+  border: none;
+  background: #f1c40f;
+  color: #ffffff;
+}
+
+button:hover {
+  background: #28b463;
+}
+
+#giphy-area {
+  font-size: 24px;
+  margin: 50px 0 0;
+}
